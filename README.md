@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://pin.it/5CaqtbQlg" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzE1d3VnOTZ4Z2RxZGplMGpqaGV3ZHljOGRnMzZ0NjRsdHVyOWIybiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 </div>
 <div align="center">
