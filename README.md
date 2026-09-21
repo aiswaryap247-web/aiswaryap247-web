@@ -21,7 +21,7 @@
 <div align="center">
 
 <img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" width="350">
-## 🌱 About Me
+
 
 <table>
 <tr>
@@ -43,7 +43,7 @@
 </td>
 </tr>
 </table>
-### 👩‍💻 Aspiring Software Engineer
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&center=true&vCenter=true&width=550&lines=Python+Learner+%F0%9F%90%8D;Problem+Solver+%F0%9F%A7%A0;Tech+Enthusiast+%F0%9F%92%BB;Future+Software+Engineer+%F0%9F%9A%80" />
 
