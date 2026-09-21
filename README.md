@@ -68,6 +68,28 @@
 </div>
 
 ---
+## 🌱 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+* 🎓 Currently learning programming and software development
+* 🐍 Learning Python and improving my problem-solving skills
+* 💻 Interested in Software Engineering
+* 🚀 Building projects and learning through practice
+* 📚 Always curious about new technologies
+* 🎯 My goal is to become a professional Software Engineer
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+
+</td>
+</tr>
+</table>
 
 ## 📌 Featured Projects
 
