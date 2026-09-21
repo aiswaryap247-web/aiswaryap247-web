@@ -1,9 +1,10 @@
 
-<td>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODk3ZGttYmlwdTFjdWMwaWlwcHJmaXA5bXkzdGk3aHA0bmF3M3lxbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DwZ392mpIdkvrvTnjm/giphy.gif" width="250">
+<div align="center">
 
-</td>
+<img src="https://pin.it/5CaqtbQlg" />
+
+</div>
 <div align="center">
 
 # 👋 Hi, I'm Aiswarya!
