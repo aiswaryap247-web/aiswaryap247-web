@@ -16,17 +16,48 @@
 </div>
 
 ---
-
 ## 🌱 About Me
 
-- 🎓 Currently learning programming and software development
-- 🐍 Learning Python and improving my problem-solving skills
-- 💻 Interested in Software Engineering
-- 🚀 Building projects and learning through practice
-- 📚 Always curious about new technologies
-- 🎯 My goal is to become a professional Software Engineer
+<div align="center">
 
----
+<img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" width="350">
+
+### 👩‍💻 Aspiring Software Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&center=true&vCenter=true&width=550&lines=Python+Learner+%F0%9F%90%8D;Problem+Solver+%F0%9F%A7%A0;Tech+Enthusiast+%F0%9F%92%BB;Future+Software+Engineer+%F0%9F%9A%80" />
+
+</div>
+
+### 🚀 My Journey
+
+| 🎓 Learning                        | 💻 Building        |
+| ---------------------------------- | ------------------ |
+| Programming & Software Development | Python Projects    |
+| Python & Problem Solving           | Coding Challenges  |
+| HTML & CSS                         | GitHub Projects    |
+| Java                               | Personal Portfolio |
+
+### 🎯 Current Goals
+
+```text
+🐍 Python              █████████░░  80%
+🧠 Problem Solving     ████████░░░  70%
+🌐 HTML & CSS          ██████░░░░░  60%
+☕ Java                ████░░░░░░░  40%
+🐙 Git & GitHub        ████████░░░  70%
+```
+
+> 💡 **Learning by building. Building by experimenting. Growing every day.**
+
+<div align="center">
+
+### ✨ What I'm Exploring
+
+🐍 Python   •   💻 Software Engineering   •   🌐 Web Development
+🤖 New Technologies   •   🧠 Problem Solving   •   🚀 Open Source
+
+</div>
+
 
 ## 🛠️ Technologies & Tools
 
@@ -64,10 +95,3 @@ More projects coming soon... 🚀
 
 ---
 
-## 🧠 Currently Learning
-
-```text
-Python          █████████░░  Learning
-Git & GitHub    ████████░░░  Learning
-HTML & CSS      ██████░░░░░  Learning
-Java            ████░░░░░░░  Exploring
